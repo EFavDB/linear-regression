@@ -1,7 +1,7 @@
 # Interpreting results of linear regression
 
 Based on the discussion in a
-[blog post](http://efavdb.com/interpreting-linear-regression).
+[blog post](http://efavdb.com/interpret-linear-regression).
 Generate synthetic data for the weight, height, and shoe size of adult
 women and fit two models:
 
